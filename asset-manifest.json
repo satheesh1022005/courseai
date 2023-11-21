@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/satheesh1022005/courseai/static/css/main.dceb7300.css",
+    "main.js": "/satheesh1022005/courseai/static/js/main.95df3f68.js",
+    "static/js/787.7196b53f.chunk.js": "/satheesh1022005/courseai/static/js/787.7196b53f.chunk.js",
+    "static/media/profile.png": "/satheesh1022005/courseai/static/media/profile.182e286690be57a8f881.png",
+    "static/media/pic.jpg": "/satheesh1022005/courseai/static/media/pic.322bc181fc06cdb0188d.jpg",
+    "index.html": "/satheesh1022005/courseai/index.html",
+    "main.dceb7300.css.map": "/satheesh1022005/courseai/static/css/main.dceb7300.css.map",
+    "main.95df3f68.js.map": "/satheesh1022005/courseai/static/js/main.95df3f68.js.map",
+    "787.7196b53f.chunk.js.map": "/satheesh1022005/courseai/static/js/787.7196b53f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dceb7300.css",
+    "static/js/main.95df3f68.js"
+  ]
+}

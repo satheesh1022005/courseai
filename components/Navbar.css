@@ -1,0 +1,55 @@
+.navbar{
+    width: 300px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    height: 100%;
+}
+ss{
+    color: aqua;
+}
+.underline{
+    border-bottom: 5px solid aqua;
+    border-image: linear-gradient(to right,aqua 50%, transparent 50%) 1;
+}
+.profile img{
+    padding:10px;
+    width:150px;
+    height:150px;
+    border: 3px solid aqua;
+}
+.sign button{
+    background-color: black;
+    padding:10px 25px;
+    color:aqua;
+    font-weight: 700;
+    border: 0px solid aqua;
+}
+.sign button:hover{
+    background-color: aqua;
+    color: black;
+}
+
+.name{
+    font-size: 30px;
+    cursor: pointer;
+    font-weight: 800;
+}
+.item{
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 500;
+}
+.item a{
+    padding: 5px;
+    color:white;
+}
+.item a:hover{
+    background-color: aqua;
+    color: black;
+}
+.item .active{
+    font-size: large;
+    color: aqua;
+    font-weight:800;
+}

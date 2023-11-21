@@ -1,0 +1,67 @@
+
+.menu {
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #000000;
+    color: #ffffff;
+    margin: 5px;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: background-color 0.3s;
+}
+.search{
+    margin-left: 300px;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+}
+.menu:hover {
+    cursor: pointer;
+    background-color: aqua;
+    color: black;
+}
+
+.menus {
+    margin-left: 300px;
+    margin-right: auto;
+    display: flex;
+    align-items: center; /* Center items vertically */
+}
+.search{
+    margin-top:20px; 
+    margin-left:300px;
+    border-radius: 18px;
+    margin-bottom: 25px;
+
+}
+.grid{
+ 
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    
+}
+.course-box h3,.course-box p{
+    background-color: #ffffff;
+}
+.course-box{
+  border: 2px solid aqua;
+  background-color: white;
+    border-radius: 10px;
+    margin:25px;
+    height: 250px;
+}
+.a1,.a4,.a5,.a8,.a9{
+    color: #000000;
+    background-image:url('https://1000logos.net/wp-content/uploads/2022/06/Coursera-Logo.png');
+    background-size: cover;
+    background-position: center;
+}
+.a2,.a3,.a6,.a7,.a10{
+    color: black;
+        background-image:url('https://th.bing.com/th/id/OIP.yj8WGyHnYgUm5Y9wFLQK6gAAAA?rs=1&pid=ImgDetMain');
+        background-size: cover;
+        background-position: center;
+}

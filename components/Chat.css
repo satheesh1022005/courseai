@@ -1,0 +1,69 @@
+*{
+    background-color: black;
+}
+.chatscreen{
+    margin-left: 300px;
+    width:100hw;
+    height: 100vh;
+    padding-top: 100px;
+    background-color: black;
+    color: white;
+}
+.chatcontainer{
+    padding: 50px 200px;
+}
+.chatbox{
+    border-radius: 10px;
+    padding:30px;
+    background-color: black;
+}
+.question{
+    background-color:black;
+    padding: 15px;
+    font-size: larger;
+    font-weight: 500;
+    border-radius: 5px;
+}
+.option button{
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    color: white;
+    font-size: large;
+    font-weight: 500;
+    background-color: #212529;
+    border-radius: 5px;
+    border: 0px;
+}
+.option button:hover,.chat input:hover{
+    color: aqua;
+    background-color: rgb(42, 42, 42);
+}
+.chat input{
+    padding: 10px 20px;
+    font-size: large;
+    font-weight: 700;
+    background-color: #212529;
+    color: white;
+    border: 0px;
+}
+.box{
+    padding: 30px;
+}
+.temp{
+    box-sizing: border-box;
+    width: 100hw;
+    padding: 50px;
+    margin-left: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color:#212529;
+    color: white;
+}
+.but{
+    padding:10px 20px ;
+    margin-left: 300px;
+}
+.divide{
+    margin-left: 300px;
+    background-color: blue;
+}

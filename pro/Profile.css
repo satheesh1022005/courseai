@@ -1,0 +1,72 @@
+.first{
+    margin-left: auto;
+    margin-right: auto;
+}
+.objective{
+
+    border-radius: 10px;
+    color:white;
+    padding:15px;
+   
+    height: 80%;
+    width:65%;
+}
+.fir{
+    width:320px;
+}
+.pic {
+    margin: 10px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; /* Adjusted to make it a circle */
+    overflow: hidden; /* Added to hide any overflow */
+}
+
+.pic img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Adjust to your needs (cover, contain, fill, etc.) */
+    display: block; /* Ensures proper rendering of the image */
+}
+.basic{
+    border-radius: 10px;
+    height: 380px;
+    width: 310px;
+    margin:10px;
+}
+.graph {
+    width: 1050px;
+    margin: auto;
+    min-height: 80%; /* Ensure the div takes up at least 100% of the height */
+}
+
+
+.obj{
+    padding: 8px;
+    width: 1124px;
+    border-radius: 10px;
+}
+.item{
+    cursor: pointer;
+    font-size: medium;
+    font-weight: 500;
+}
+.item a{
+    padding: 5px;
+    color:white;
+}
+.item a:hover{
+    background-color: aqua;
+    color: black;
+}
+.item .active{
+    font-size: large;
+    color: aqua;
+    font-weight:800;
+}
+.graph img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Adjust to your needs (cover, contain, fill, etc.) */
+    display: block;
+}
